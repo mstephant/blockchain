@@ -19,7 +19,7 @@ Steps to follow:
   bootnode --nodekey=boot.key
   
   
-- Set up one node for each user of the community, plus one additonnal, with the following commands:
+- Set up one node for each user of the community, plus one additonnal, with the following commands (use puppeth to generate the genesis file):
   
   geth --datadir node0 init genesis.json
   
