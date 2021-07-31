@@ -8,3 +8,4 @@ The python files are used to implement the behavior of the actor and to automate
 
 We test the implementation with PoA and PoW. 
 
+Tested on March 2021 with Geth under Linux distribution
