@@ -1,0 +1,5 @@
+ADMM.sol : algo ADMM avec étape d'optimisation globale dans le script python de l'agent
+
+ADMM_distributed.sol : algo ADMM avec étape d'optimisation globale directement dans le smart contract
+
+ADMM_prixDiff.sol : algo ADMM avec prix différents (prix local et prix imports) et nouvelles variables (p,q, lambda). Etape d'optimisation globale directement dans le smart contract. 
